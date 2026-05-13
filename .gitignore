@@ -21,3 +21,10 @@ dev/
 
 # Results file
 results.tsv
+
+# Stashed autoresearch reference files
+.autoresearch-reference/
+
+# Own repos / heavy assets (not part of autoresearch upstream)
+smartwork-auto-optimize/
+reference-skills-input-output/
